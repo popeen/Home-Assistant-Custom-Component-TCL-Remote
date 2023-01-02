@@ -1,0 +1,7 @@
+{
+    "domain": "tcl_tv_remote",
+    "name": "TCL TV Remote",
+    "documentation": "https://github.com/popeen/Home-Assistant-Custom-Component-TCL-Remote",
+    "iot_class": "assumed_state",
+    "version": "0.1.0"
+}
