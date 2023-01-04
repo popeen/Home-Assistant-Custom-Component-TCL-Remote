@@ -1,4 +1,4 @@
-**List of key codes**
+**List of key codes**\
 You can expect that not all of these will work on all TVs
 
 TR_KEY_RED\
