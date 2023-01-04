@@ -1,0 +1,72 @@
+# Service ID
+send_key:
+  # Service name as shown in UI
+  name: Send key
+  # Description of the service
+  description: Send a key command/button press to your TV
+  # Different fields that your service accepts
+  fields:
+    # Key of the field
+    ip:
+      # Field name as shown in UI
+      name: IP
+      # Description of the field
+      description: Your TVs IP address
+      # Whether or not field is required (default = false)
+      required: true
+      # Example value that can be passed for this field
+      example: "192.168.1.10"
+    port:
+      # Field name as shown in UI
+      name: port
+      # Description of the field
+      description: The port your TV listens to, most likely 4123
+      # Whether or not field is required (default = false)
+      required: true
+      # Example value that can be passed for this field
+      example: "4123"
+    key:
+      # Field name as shown in UI
+      name: port
+      # Description of the field
+      description: The code of the key you want to "press"
+      # Whether or not field is required (default = false)
+      required: true
+      # Example value that can be passed for this field
+      example: "TR_KEY_SOURCE"
+# Service ID
+go_to_source:
+  # Service name as shown in UI
+  name: Go to source
+  # Description of the service
+  description: Send the key presses needed for changing the input/source.
+  # Different fields that your service accepts
+  fields:
+    # Key of the field
+    ip:
+      # Field name as shown in UI
+      name: IP
+      # Description of the field
+      description: Your TVs IP address
+      # Whether or not field is required (default = false)
+      required: true
+      # Example value that can be passed for this field
+      example: "192.168.1.10"
+    port:
+      # Field name as shown in UI
+      name: port
+      # Description of the field
+      description: The port your TV listens to, most likely 4123
+      # Whether or not field is required (default = false)
+      required: true
+      # Example value that can be passed for this field
+      example: "4123"
+    source:
+      # Field name as shown in UI
+      name: port
+      # Description of the field
+      description: The source/input you want to use, begin counting from 0
+      # Whether or not field is required (default = false)
+      required: true
+      # Example value that can be passed for this field
+      example: "3"
