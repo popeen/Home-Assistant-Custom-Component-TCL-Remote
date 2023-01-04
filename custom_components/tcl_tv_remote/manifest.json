@@ -4,5 +4,6 @@
     "documentation": "https://github.com/popeen/Home-Assistant-Custom-Component-TCL-Remote",
     "iot_class": "assumed_state",
     "codeowners": ["@popeen"],
+    "issue_tracker": "https://github.com/popeen/Home-Assistant-Custom-Component-TCL-Remote/issues",
     "version": "0.1.0"
 }
