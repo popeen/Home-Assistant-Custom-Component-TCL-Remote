@@ -10,10 +10,10 @@
 
 [![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
 
-This custom component will give you two new services for controlling TCL Smart TVs (Non android version). Tested on my S69 series TV.
+This custom component will give you two new services for controlling TCL Smart TVs (Non android version). Tested on my S69 series TV.\
 I have seen some reports about it working on other brands as well, mainly Thomson
 
-**Send key**
+**Send key**\
 This service will send a key command/button press to your TV, see [Key List](KEYS.md)
 |Parameter| What to put |
 |--|--|
@@ -28,8 +28,8 @@ data:
   port: 4123
 
 ```  
-**Go to source**
-This service will send the key presses needed for changing the input/source.
+**Go to source**\
+This service will send the key presses needed for changing the input/source.\
 Since we don't know the current input and there is no input specific button this is done by first going to tv input and then we can navigate to the correct one.
 |Parameter| What to put |
 |--|--|
