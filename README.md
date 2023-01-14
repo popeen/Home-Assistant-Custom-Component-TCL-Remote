@@ -6,7 +6,7 @@
 ![Project Stage][project-stage-shield]
 [![issues-shield]](issues)
 [![License][license-shield]](LICENSE.md)
-[![hacs_badge][hacs-custom-shield]][hacs]
+[![hacs_badge][hacs-shield]][hacs]
 
 [![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
 
@@ -51,7 +51,7 @@ data:
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-ready%20for%20use-green.svg
 [issues-shield]: https://img.shields.io/github/issues-raw/popeen/Home-Assistant-Custom-Component-TCL-Remote.svg
 [license-shield]: https://img.shields.io/github/license/popeen/Home-Assistant-Custom-Component-TCL-Remote.svg
-[hacs-custom-shield]: https://img.shields.io/badge/HACS-Custom-orange.svg
+[hacs-shield]: https://img.shields.io/badge/HACS-Default-orange.svg
 [hacs]: https://github.com/custom-components/hacs
 [buymeacoffee-shield]: https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg
 [buymeacoffee]: https://www.buymeacoffee.com/popeen
