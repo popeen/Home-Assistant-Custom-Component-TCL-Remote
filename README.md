@@ -13,6 +13,12 @@
 This custom component will give you two new services for controlling TCL Smart TVs (Non android version). Tested on my S69 series TV.\
 I have seen some reports about it working on other brands as well, mainly Thomson
 
+To **register the service** you need to add the following to your configuration.yaml and then restart Home Assistant
+```  
+tcl_tv_remote:
+```  
+
+
 **Send key**\
 This service will send a key command/button press to your TV, see [Key List](KEYS.md)
 |Parameter| What to put |
