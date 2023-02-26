@@ -1,14 +1,10 @@
 {
     "domain": "tcl_tv_remote",
     "name": "TCL TV Remote",
+    "codeowners": ["@popeen"],
     "documentation": "https://github.com/popeen/Home-Assistant-Custom-Component-TCL-Remote",
-    "issue_tracker": "https://github.com/popeen/Home-Assistant-Custom-Component-TCL-Remote/issues",
     "iot_class": "assumed_state",
-    "codeowners": [
-        "@popeen"
-    ],
-    "requirements": [
-        "TCL-TV-Remote==0.0.1"
-    ],
+    "issue_tracker": "https://github.com/popeen/Home-Assistant-Custom-Component-TCL-Remote/issues",
+    "requirements": ["TCL-TV-Remote==0.0.1"],
     "version": "0.1.2"
 }
