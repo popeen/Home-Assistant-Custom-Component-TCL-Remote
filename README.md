@@ -13,7 +13,7 @@
 This custom component will give you two new services for controlling TCL Smart TVs (Non android version). Tested on my S69 series TV.\
 I have seen some reports about it working on other brands as well, mainly Thomson
 
-After installing it using HACS you need to **register the services**, this can be done by two different methods.
+***After installing it using HACS*** you need to register the services, this can be done by two different methods.
 
 **Method 1.**
 
