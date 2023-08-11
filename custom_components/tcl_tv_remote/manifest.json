@@ -6,5 +6,6 @@
     "documentation": "https://github.com/popeen/Home-Assistant-Custom-Component-TCL-Remote",
     "iot_class": "assumed_state",
     "issue_tracker": "https://github.com/popeen/Home-Assistant-Custom-Component-TCL-Remote/issues",
-    "version": "0.1.2"
+    "requirements": ["TCL-TV-Remote==0.0.1"],
+    "version": "0.1.3"
 }
