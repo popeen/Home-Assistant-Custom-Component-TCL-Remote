@@ -13,7 +13,17 @@
 This custom component will give you two new services for controlling TCL Smart TVs (Non android version). Tested on my S69 series TV.\
 I have seen some reports about it working on other brands as well, mainly Thomson
 
-To **register the service** you need to add the following to your configuration.yaml and then restart Home Assistant
+After installing it using HACS you need to **register the services**, this can be done by two different methods.
+
+**Method 1.**
+
+Click this button to add it using config flow
+
+[![add-integration-shield]][add-integration]
+
+**Method 2.** (Deprecated)
+
+Add the following to your configuration.yaml and then restart Home Assistant
 ```  
 tcl_tv_remote:
 ```  
@@ -61,3 +71,5 @@ data:
 [hacs]: https://github.com/custom-components/hacs
 [buymeacoffee-shield]: https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg
 [buymeacoffee]: https://www.buymeacoffee.com/popeen
+[add-integration-shield]: https://my.home-assistant.io/badges/config_flow_start.svg
+[add-integration]: https://my.home-assistant.io/redirect/config_flow_start/?domain=tcl_tv_remote
