@@ -1,0 +1,12 @@
+{
+    "config": {
+        "error": {
+            "unknown": "Unknown error"
+        },
+        "step": {
+            "user": {
+				"description": "Press Submit to register the TCL Remote services. No entities will be created, this is normal."
+            }
+        }
+   }
+}
