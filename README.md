@@ -7,7 +7,6 @@
 [![issues-shield]](issues)
 [![License][license-shield]](LICENSE.md)
 [![hacs_badge][hacs-shield]][hacs]
-![Installs](https://img.shields.io/badge/dynamic/json?label=Installs&logo=home-assistant&query=%24.tcl_tv_remote.total&url=https%3A%2F%2Fanalytics.home-assistant.io%2Fcustom_integrations.json)
 
 [![Buy me a coffee][buymeacoffee-shield]][buymeacoffee]
 
